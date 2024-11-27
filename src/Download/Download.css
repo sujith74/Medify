@@ -1,0 +1,138 @@
+.image{
+    width: 224px;
+height: 69px;
+top: 6082px;
+left: 717px;
+gap: 0px;
+opacity: 0px;
+
+}
+.section{
+    width: 1440px;
+    height: 542px;
+    top: 5673px;
+    gap: 0px;
+    opacity: 0px;
+    background: linear-gradient(81deg, #E7F0FF 9.01%, rgba(232, 241, 255, 0.47) 89.11%);
+
+}
+.title{
+    width: 338px;
+height: 134px;
+top: 5790px;
+left: 717px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 67px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #1B3C74;
+
+}
+.title-s{
+    font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 67px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #2AA7FF;
+
+}
+.p{
+    width: 233.77px;
+height: 19px;
+top: 5945px;
+left: 714px;
+gap: 0px;
+opacity: 0px;
+font-family: Lato;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #414146;
+
+}
+.image{
+    width: 224px;
+height: 69px;
+top: 6082px;
+left: 717px;
+gap: 0px;
+opacity: 0px;
+
+}
+.phn{
+    width: 302px;
+    height: 503px;
+    top: 5714px;
+    left: 326px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+}
+.image-content{
+    width: 927px;
+height: 433px;
+top: 5784px;
+left: -186px;
+gap: 0px;
+border-radius: 40px 0px 0px 0px;
+opacity: 0px;
+
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.image-content{
+    opacity: 0;
+
+}
+.input{
+    height: 50px;
+    width: 400px;
+    border-radius: 10px;
+    opacity: 0px;
+    margin-bottom: 45px;;
+}
+.buttons{
+    display: flex;
+    justify-content:space-around;
+}
+/* .image-container {
+    position: relative;
+  }
+  
+  .image-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    max-width: 100%; 
+  }
+   .image-content {
+     opacity: 0;
+  } */
+.section{
+    width: 1140px;
+height: 708.84px;
+top: 4985px;
+left: 153px;
+gap: 0px;
+opacity: 0px;
+
+}
+.divide{
+    display: flex;
+    flex-direction: column;
+}

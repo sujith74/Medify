@@ -1,0 +1,49 @@
+.title-top{
+    width: 100px;
+height: 27px;
+top: 40px;
+left: 520px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 27px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #2AA7FF;
+
+
+}
+
+.title{
+    width: 528px;
+height: 67px;
+top: 68.5px;
+left: 306px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 67px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #1B3C74;
+
+}
+.blogs{
+    display: flex;
+    justify-content: space-between;
+}
+.section{
+    width: 1140px;
+height: 677.77px;
+top: 3481px;
+left: 125px;
+gap: 0px;
+opacity: 0px;
+
+}

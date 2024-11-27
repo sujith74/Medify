@@ -1,0 +1,59 @@
+.Fam{
+    width: 1449px;
+height: 789px;
+top: 4171px;
+left: -5px;
+gap: 0px;
+opacity: 0px;
+
+    background: linear-gradient(81deg, #E7F0FF 9.01%, rgba(232, 241, 255, 0.47) 89.11%);
+
+}
+.title{
+    width: 491px;
+height: 18px;
+top: 183px;
+gap: 0px;
+opacity: 0px;
+color: #2AA7FF;
+font-family: Poppins;
+font-size: 17px;
+font-weight: 600;
+line-height: 18px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+
+
+}
+.title-2{
+    width: 468.97px;
+    height: 65.5px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 67px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #1B3C74;
+
+}
+.p{
+    width: 531.17px;
+    height: 205px;
+    top: -28px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 40.8px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #77829D;
+
+}

@@ -1,0 +1,70 @@
+.footer{
+    width: 1440px;
+height: 424px;
+top: 6215px;
+padding: 40px 135px 30px 162px;
+gap: 0px;
+opacity: 0px;
+background: #1B3C74;
+
+}
+.in-footer{
+    width: 1143px;
+height: 354px;
+top: 40px;
+left: 162px;
+gap: 0px;
+opacity: 0px;
+
+}
+.section-1{
+    display:flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #FFFFFF1A;
+}
+
+.column-1,.column-2,.column-3{
+    display:flex;
+    flex-direction: column;
+    /* width:; */
+    
+}
+.column-1{
+    
+}
+.links{
+    /* width: 170px */
+}
+.Medify{
+    width: 126.77px;
+height: 36px;
+top: 41px;
+left: 10px;
+gap: 0px;
+opacity: 0px;
+color: #2AA8FF;
+
+
+}
+.links{
+    width: 70px;
+height: 28px;
+top: -0.5px;
+left: 23.75px;
+gap: 0px;
+margin:5px;
+opacity: 0px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #FFFFFF;
+
+}
+.footer-line{
+    margin: 25px;
+    color: #FFFFFF;
+}
